@@ -1,4 +1,8 @@
 x=10
 y=30
-z=x+y
-print(z)
+
+if x>y
+print(x greater than y)
+else
+print(x less than y)
+
